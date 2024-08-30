@@ -1,0 +1,20 @@
+.filter-sort {
+    display: flex;
+    justify-content: space-between;
+    margin: 16px;
+  }
+  
+  .filter-sort .sort,
+  .filter-sort .filter {
+    display: flex;
+    align-items: center;
+  }
+  
+  .filter-sort label {
+    margin-right: 8px;
+  }
+  
+  .filter-sort select {
+    padding: 5px;
+  }
+  

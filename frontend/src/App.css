@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+  background: linear-gradient(90deg, #8e44ad, blueviolet);
+  color: #fff;
+}
+
+.cart-button {
+  padding: 10px 20px;
+  background: #fff;
+  color: #8e44ad;
+  border: 20px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.cart-button:hover {
+  background-color: #ccc;
+}
